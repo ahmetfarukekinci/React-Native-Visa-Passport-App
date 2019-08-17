@@ -45,6 +45,8 @@ npm i --save
 
 
 Please get your firebase api key from: https://firebase.google.com
+
+
 Your database json should be following this pattern:
 
 ```
