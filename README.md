@@ -1,6 +1,6 @@
 # React-Native-Visa-Passport-App
 
-<img src="ss.png" width="375" height="667"> <img src="ss2.png" width="375" height="667">
+<img src="ss.png" width="375" height="667">       <img src="ss2.png" width="375" height="667">
 
 A mobile application for Turkish citizens planning to go abroad. The application provides information on how to apply for visas of certain countries and Turkish passport in Turkey.
 
